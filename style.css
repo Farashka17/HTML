@@ -4,13 +4,13 @@
     padding: 0;
 }
 .bir{
-    margin:150px auto 50px ;
+    margin:150px auto 0px ;
     width: 713px;
-    height: 140px;
+    height: 70px;
     text-align: center;
 }
 .iki{
-    margin:20px auto;
+    margin:40px auto 0px;
     width: 713px;
     height: 140px;
     text-align: center;
@@ -23,7 +23,25 @@ h1{
 }
 h2{
     color: rgba(21, 20, 57, 0.4);
-    font-size: 14px;
+    font-size: 22px;
     font-family:DM Sans;
     line-height: 28px;
+}
+button{ 
+    background-color:rgb(37, 218, 197);
+    width: 230px;
+    height: 60px;
+    margin:0px 650px;
+    border-radius: 100px;
+    border: none;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+p{
+    margin:20px auto;
+    width: 713px;
+    height: 140px;
+    text-align: center;
+    color: rgba(21, 20, 57, 0.4);
 }
