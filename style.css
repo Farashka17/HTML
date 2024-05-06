@@ -3,20 +3,27 @@
     margin: 0;
     padding: 0;
 }
-div{
-    margin:150px auto;
+.bir{
+    margin:150px auto 50px ;
+    width: 713px;
+    height: 140px;
+    text-align: center;
+}
+.iki{
+    margin:20px auto;
     width: 713px;
     height: 140px;
     text-align: center;
 }
 h1{
-    color: rgba(21, 20, 57, 0.4);
-    font-size: 14px;
-    font-family:DM Sans;
-}
-h2{
     font-size: 58px;
     color: rgb(30, 14, 98);
     font-family:DM Sans;
     line-height: 70px;
+}
+h2{
+    color: rgba(21, 20, 57, 0.4);
+    font-size: 14px;
+    font-family:DM Sans;
+    line-height: 28px;
 }
