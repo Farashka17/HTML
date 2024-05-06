@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    margin:150px auto;
+    width: 713px;
+    height: 140px;
+    text-align: center;
+}
+h1{
+    color: rgba(21, 20, 57, 0.4);
+    font-size: 14px;
+    font-family:DM Sans;
+}
+h2{
+    font-size: 58px;
+    color: rgb(30, 14, 98);
+    font-family:DM Sans;
+    line-height: 70px;
+}
